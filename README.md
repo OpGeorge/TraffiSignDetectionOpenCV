@@ -12,6 +12,26 @@ The project uses images from traffic signs datastes at [Kaggle.com road sign det
 - Then the user needs to select the image that is to be processed.
 - Finally, the result will be an aproximation of the category in which the sign comes from, and also a copy of the original image where the road sign placement is highlated.
 
+## Requirements
+
+In order to run the program you needs: <br>
+
+ - Microsoft Visaul Studio as this repository contains the solution of the MS VS project.
+ - A set of colored images.
+
+## Contents
+
+The repository has the .sln and all the files necessary to run the application through Microsoft Visual Studio. <br>
+
+## Instalation
+
+1. Clone the repository
+2. Create an empty VS project.
+3. Copy the repository files into the empty project
+4. Run the application.
+
+## Results
+
 There are below expermiental results obtained by using the traffic sign detection pipeline.
 
 ![Screenshot 2024-06-04 130529](https://github.com/oanasabau1/Traffic-Sign-Detection-OpenCV-Image-Processing/assets/115418520/e44242b2-85e4-49a5-9173-4184da428f81)
